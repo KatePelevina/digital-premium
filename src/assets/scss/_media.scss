@@ -1,0 +1,39 @@
+@media (max-width: 1200px) {
+    .line {
+        display: none;
+    }
+    .container {
+        padding: 15px;
+    }
+
+
+}
+
+// @media (max-width: 800px) {
+//     .about {
+//         &__inner {
+//             flex-wrap: wrap;
+//         }
+//         &__item {
+//             width: 100vw; 
+//         }
+//     }
+//     .services {       
+//         &__item {
+//             width: 60%;
+//         }
+//     }
+// }
+// @media (max-width: 400px) {
+//     .services {       
+//         &__item {
+//             width: 100%;
+//         }
+//     }
+// }
+
+@media (max-width: 600px) {
+    nav {
+        display: none;
+    }
+}
